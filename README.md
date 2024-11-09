@@ -8,8 +8,8 @@ lOS COMENTARIOS SE CREAN DE ESTA FORMA
 <!-- Logo de Proyecto -->
 <br/>
 <div align="center">
-  <a href="[https://github.com/othneildrew/Best-README-Template](https://lh3.googleusercontent.com/qnaJEbFIpvsWJm2KrRI_GIvz1yZdXntgEsCZxy-1pVZi244bCk1RFwdk0ZBRmmvdHiUl6sIa_tsmskL5WLKiigp2AMsIIxinOJNf39qCmacViRGXIOY)">
-    <img src="[images/logo.png](https://imgs.search.brave.com/6CViUxSmpVaEVqg1xisjw9olVF1mgEpL1KdNe2KsPq0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zcGVj/a3lib3kuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIyLzAy/L2ZyZWUtZmlnbWEt/dWktdG1lcGxhdGUt/MTQuanBn)" alt="Logo" width="80" height="80">
+  <a href="[https://github.com/othneildrew/Best-README-Template]">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Plantilla de README</h3>
