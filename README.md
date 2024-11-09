@@ -17,13 +17,13 @@ lOS COMENTARIOS SE CREAN DE ESTA FORMA
   <p align="center">
     Subtitulo para la plantilla de RADME
     <br/>
-    <a href="https://github.com"><strong>Link a la documentación »</strong></a>
+    <a href="https://github.com/alavaro-dev/REGLAS-README/edit/main/CAMBIOS.md"><strong>Comandos de Github »</strong></a>
     <br/><br/>
-    <a href="https://github.com">Link 1</a>
+    <a href="https://github.com/alavaro-dev/REGLAS-README/edit/main/COMMIT.md">COMMIT</a>
     ·
-    <a href="https://github.com">Link 2</a>
+    <a href="https://github.com/alavaro-dev/REGLAS-README/edit/main/CAMBIOS.md">Link 2</a>
     ·
-    <a href="https://github.com/">Link 3</a>
+    <a href="https://github.com/alavaro-dev/REGLAS-README/edit/main/CAMBIOS.md">Link 3</a>
   </p>
 </div>
 
