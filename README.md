@@ -21,7 +21,7 @@ lOS COMENTARIOS SE CREAN DE ESTA FORMA
     <br/><br/>
     <a href="https://github.com/alavaro-dev/REGLAS-README/edit/main/COMMIT.md">COMMIT</a>
     ·
-    <a href="https://github.com/alavaro-dev/REGLAS-README/edit/main/CAMBIOS.md">Link 2</a>
+    <a href="https://github.com/alavaro-dev/REGLAS-README/edit/main/CAMBIOS.md">Comandos</a>
     ·
     <a href="https://github.com/alavaro-dev/REGLAS-README/edit/main/CAMBIOS.md">Link 3</a>
   </p>
